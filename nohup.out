@@ -1,0 +1,291 @@
+[I 07:46:49.046 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[W 07:46:49.070 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 07:46:49.071 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 07:46:49.078 NotebookApp] [nb_conda] enabled
+[I 07:46:49.116 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 07:46:49.117 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 07:46:49.152 NotebookApp] [nb_anacondacloud] enabled
+[I 07:46:49.154 NotebookApp] Serving notebooks from local directory: /media/data/workspace/udacity/carnd/CarND-LaneLines-P1
+[I 07:46:49.154 NotebookApp] 0 active kernels 
+[I 07:46:49.154 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 07:46:49.154 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 07:46:52.945 NotebookApp] 302 GET / (192.168.0.1) 1.37ms
+[W 08:16:11.873 NotebookApp] 405 HEAD / (199.33.125.108) 0.55ms referer=None
+[I 09:13:49.294 NotebookApp] 302 GET / (192.158.48.162) 0.89ms
+[I 09:14:13.649 NotebookApp] Kernel started: 8540fb07-2737-4d51-8663-50a806ff64c4
+[I 09:14:13.689 NotebookApp] 302 GET /notebooks/line-segments-example.jpg (192.158.48.162) 0.96ms
+[I 09:14:13.690 NotebookApp] 302 GET /notebooks/laneLines_thirdPass.jpg (192.158.48.162) 0.69ms
+[I 09:14:13.741 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.02ms
+[I 09:14:13.744 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 0.87ms
+[I 09:16:14.296 NotebookApp] Saving file at /P1.ipynb
+[I 09:19:31.757 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.78ms
+[I 09:20:14.028 NotebookApp] Saving file at /P1.ipynb
+[I 09:20:29.498 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.42ms
+[I 09:21:16.356 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.60ms
+[I 09:22:14.109 NotebookApp] Saving file at /P1.ipynb
+[I 09:22:14.334 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 2.14ms
+[I 09:22:58.392 NotebookApp] Saving file at /P1.ipynb
+[I 09:23:10.637 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.60ms
+[I 09:24:11.657 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.75ms
+[I 09:24:15.352 NotebookApp] Saving file at /P1.ipynb
+[I 09:24:45.487 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.83ms
+[I 09:25:39.553 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 1.52ms
+[I 09:26:14.941 NotebookApp] Saving file at /P1.ipynb
+[I 09:27:03.204 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.75ms
+[I 09:28:08.875 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 1.70ms
+[I 09:28:14.744 NotebookApp] Saving file at /P1.ipynb
+[I 09:30:14.216 NotebookApp] Saving file at /P1.ipynb
+[I 09:32:10.247 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.39ms
+[I 09:32:14.083 NotebookApp] Saving file at /P1.ipynb
+[I 09:33:33.414 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 2.27ms
+[I 09:34:17.135 NotebookApp] Saving file at /P1.ipynb
+[I 09:35:16.507 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.94ms
+[I 09:35:36.334 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.01ms
+[I 09:36:17.059 NotebookApp] Saving file at /P1.ipynb
+[I 09:36:24.180 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 1.49ms
+[I 09:37:16.115 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.33ms
+[I 09:37:35.463 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.02ms
+[I 09:38:14.770 NotebookApp] Saving file at /P1.ipynb
+[I 09:38:43.976 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.16ms
+[I 09:39:35.741 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 0.64ms
+[I 09:40:15.109 NotebookApp] Saving file at /P1.ipynb
+[I 09:41:26.784 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.29ms
+[I 09:42:14.281 NotebookApp] Saving file at /P1.ipynb
+[I 09:44:14.121 NotebookApp] Saving file at /P1.ipynb
+[I 09:44:27.583 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.63ms
+[I 09:46:14.392 NotebookApp] Saving file at /P1.ipynb
+[I 09:48:31.940 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.59ms
+[I 09:49:27.616 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.24ms
+[I 09:50:14.275 NotebookApp] Saving file at /P1.ipynb
+[I 09:52:03.470 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.67ms
+[I 09:52:15.732 NotebookApp] Saving file at /P1.ipynb
+[I 09:52:24.775 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.162) 1.36ms
+[I 09:53:20.155 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.162) 1.26ms
+[I 09:54:15.011 NotebookApp] Saving file at /P1.ipynb
+[I 09:55:09.352 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.162) 1.46ms
+[I 09:56:14.231 NotebookApp] Saving file at /P1.ipynb
+[W 10:05:14.421 NotebookApp] WebSocket ping timeout after 117604 ms.
+[I 10:34:14.940 NotebookApp] Saving file at /P1.ipynb
+[I 10:36:14.954 NotebookApp] Saving file at /P1.ipynb
+[I 10:44:15.024 NotebookApp] Saving file at /P1.ipynb
+[I 10:46:14.484 NotebookApp] Saving file at /P1.ipynb
+[I 10:47:37.333 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 1.58ms
+[I 10:48:14.489 NotebookApp] Saving file at /P1.ipynb
+[I 10:48:26.532 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 0.99ms
+[I 10:50:14.593 NotebookApp] Saving file at /P1.ipynb
+[I 10:54:15.208 NotebookApp] Saving file at /P1.ipynb
+[I 10:54:16.364 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 2.11ms
+[I 10:56:14.758 NotebookApp] Saving file at /P1.ipynb
+[I 10:58:14.627 NotebookApp] Saving file at /P1.ipynb
+[I 10:59:38.365 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 1.51ms
+[I 11:00:14.767 NotebookApp] Saving file at /P1.ipynb
+[I 11:00:31.696 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.160) 1.71ms
+[I 11:01:32.730 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 1.58ms
+[I 11:02:14.907 NotebookApp] Saving file at /P1.ipynb
+[I 11:03:21.270 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 1.64ms
+[I 11:04:15.114 NotebookApp] Saving file at /P1.ipynb
+[I 11:05:24.098 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 1.59ms
+[I 11:06:14.612 NotebookApp] Saving file at /P1.ipynb
+[I 11:06:40.227 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.158.48.160) 0.99ms
+[I 11:08:14.498 NotebookApp] Saving file at /P1.ipynb
+[I 11:10:14.552 NotebookApp] Saving file at /P1.ipynb
+OpenCV Error: Assertion failed (p.checkVector(2, CV_32S) >= 0) in polylines, file /home/travis/miniconda/conda-bld/work/opencv-3.1.0/modules/imgproc/src/drawing.cpp, line 2308
+[I 11:12:14.503 NotebookApp] Saving file at /P1.ipynb
+[I 11:13:03.668 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 1.42ms
+[I 11:14:09.981 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 0.77ms
+[I 11:14:14.481 NotebookApp] Saving file at /P1.ipynb
+[I 11:14:59.773 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 0.70ms
+[I 11:15:46.205 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 0.76ms
+[I 11:16:14.982 NotebookApp] Saving file at /P1.ipynb
+[I 11:18:14.449 NotebookApp] Saving file at /P1.ipynb
+[I 11:20:14.574 NotebookApp] Saving file at /P1.ipynb
+[I 11:22:14.592 NotebookApp] Saving file at /P1.ipynb
+[I 11:24:08.399 NotebookApp] 302 GET /notebooks/white.mp4 (192.158.48.160) 1.49ms
+[I 11:24:15.095 NotebookApp] Saving file at /P1.ipynb
+[I 11:25:01.134 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 1.73ms
+[I 11:26:15.092 NotebookApp] Saving file at /P1.ipynb
+[I 11:27:36.153 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 0.91ms
+[I 11:28:15.123 NotebookApp] Saving file at /P1.ipynb
+[I 11:29:35.393 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 1.31ms
+[I 11:30:15.078 NotebookApp] Saving file at /P1.ipynb
+[I 11:30:58.647 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 1.54ms
+[I 11:32:15.071 NotebookApp] Saving file at /P1.ipynb
+[I 11:32:21.414 NotebookApp] 302 GET /notebooks/extra.mp4 (192.158.48.160) 2.14ms
+[W 11:35:35.401 NotebookApp] WebSocket ping timeout after 119946 ms.
+[I 11:56:09.997 NotebookApp] 302 GET / (109.79.122.109) 0.52ms
+[I 12:19:54.976 NotebookApp] 302 GET / (73.88.223.237) 0.94ms
+[I 12:22:05.344 NotebookApp] 302 GET / (220.133.213.170) 0.63ms
+[W 12:31:29.547 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (94.102.49.174) 13.64ms referer=None
+[I 18:04:10.161 NotebookApp] 302 GET / (192.168.0.106) 0.81ms
+[I 18:04:13.966 NotebookApp] 302 GET /notebooks/laneLines_thirdPass.jpg (192.168.0.106) 1.69ms
+[I 18:04:13.969 NotebookApp] 302 GET /notebooks/line-segments-example.jpg (192.168.0.106) 1.76ms
+[I 18:04:14.566 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.23ms
+[I 18:04:14.567 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.08ms
+[I 18:04:14.569 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 1.08ms
+[I 18:06:14.785 NotebookApp] Saving file at /P1.ipynb
+[I 18:08:14.726 NotebookApp] Saving file at /P1.ipynb
+[I 18:10:14.604 NotebookApp] Saving file at /P1.ipynb
+[I 18:14:14.561 NotebookApp] Saving file at /P1.ipynb
+[I 18:16:14.587 NotebookApp] Saving file at /P1.ipynb
+[I 18:18:14.525 NotebookApp] Saving file at /P1.ipynb
+[I 18:20:14.518 NotebookApp] Saving file at /P1.ipynb
+[I 18:22:14.540 NotebookApp] Saving file at /P1.ipynb
+[I 18:24:14.510 NotebookApp] Saving file at /P1.ipynb
+[I 18:28:17.577 NotebookApp] Saving file at /P1.ipynb
+[I 18:30:17.547 NotebookApp] Saving file at /P1.ipynb
+[I 18:31:07.458 NotebookApp] Saving file at /P1.ipynb
+[I 18:32:17.531 NotebookApp] Saving file at /P1.ipynb
+[I 18:34:17.542 NotebookApp] Saving file at /P1.ipynb
+[I 18:36:17.546 NotebookApp] Saving file at /P1.ipynb
+[I 18:38:17.569 NotebookApp] Saving file at /P1.ipynb
+[I 18:40:17.949 NotebookApp] Saving file at /P1.ipynb
+[I 18:42:17.923 NotebookApp] Saving file at /P1.ipynb
+[I 18:46:18.775 NotebookApp] Saving file at /P1.ipynb
+[W 18:54:14.561 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 19:38:33.891 NotebookApp] WebSocket ping timeout after 119996 ms.
+[I 20:09:42.688 NotebookApp] 302 GET / (73.1.84.151) 0.75ms
+[I 21:52:49.882 NotebookApp] Saving file at /P1.ipynb
+[I 21:54:49.862 NotebookApp] Saving file at /P1.ipynb
+[I 21:56:49.862 NotebookApp] Saving file at /P1.ipynb
+[I 22:30:06.645 NotebookApp] Saving file at /P1.ipynb
+[W 22:46:03.091 NotebookApp] 404 GET http://httpheader.net/ (93.174.93.218) 2.30ms referer=None
+[I 22:47:18.182 NotebookApp] Saving file at /P1.ipynb
+[I 22:55:26.498 NotebookApp] Saving file at /P1.ipynb
+[I 22:57:26.481 NotebookApp] Saving file at /P1.ipynb
+[I 23:01:26.491 NotebookApp] Saving file at /P1.ipynb
+[I 23:03:26.443 NotebookApp] Saving file at /P1.ipynb
+[I 23:05:26.454 NotebookApp] Saving file at /P1.ipynb
+[I 23:07:26.439 NotebookApp] Saving file at /P1.ipynb
+[I 23:09:26.450 NotebookApp] Saving file at /P1.ipynb
+[I 23:11:26.451 NotebookApp] Saving file at /P1.ipynb
+[I 23:13:26.433 NotebookApp] Saving file at /P1.ipynb
+[I 23:15:26.439 NotebookApp] Saving file at /P1.ipynb
+[W 17:16:32.480 NotebookApp] WebSocket ping timeout after 64829926 ms.
+[I 17:17:21.473 NotebookApp] 302 GET / (192.168.0.106) 0.72ms
+[I 17:17:35.741 NotebookApp] 302 GET /notebooks/line-segments-example.jpg (192.168.0.106) 1.50ms
+[I 17:17:35.742 NotebookApp] 302 GET /notebooks/laneLines_thirdPass.jpg (192.168.0.106) 0.94ms
+[I 17:17:36.494 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 1.09ms
+[I 17:17:36.496 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.04ms
+[I 17:17:36.498 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.01ms
+[I 17:19:36.727 NotebookApp] Saving file at /P1.ipynb
+[I 17:21:36.299 NotebookApp] Saving file at /P1.ipynb
+[I 17:23:36.219 NotebookApp] Saving file at /P1.ipynb
+[I 17:25:36.246 NotebookApp] Saving file at /P1.ipynb
+[I 17:27:36.281 NotebookApp] Saving file at /P1.ipynb
+[I 17:29:36.266 NotebookApp] Saving file at /P1.ipynb
+[I 17:31:36.284 NotebookApp] Saving file at /P1.ipynb
+[I 17:31:47.854 NotebookApp] 302 GET / (59.126.132.204) 0.55ms
+[I 17:33:36.287 NotebookApp] Saving file at /P1.ipynb
+[I 17:35:36.239 NotebookApp] Saving file at /P1.ipynb
+[I 17:37:36.238 NotebookApp] Saving file at /P1.ipynb
+[I 17:39:36.262 NotebookApp] Saving file at /P1.ipynb
+[I 17:41:36.230 NotebookApp] Saving file at /P1.ipynb
+[I 17:43:36.307 NotebookApp] Saving file at /P1.ipynb
+[I 17:45:36.269 NotebookApp] Saving file at /P1.ipynb
+[I 17:49:36.223 NotebookApp] Saving file at /P1.ipynb
+[I 17:51:36.202 NotebookApp] Saving file at /P1.ipynb
+[I 17:53:36.208 NotebookApp] Saving file at /P1.ipynb
+[I 17:55:36.234 NotebookApp] Saving file at /P1.ipynb
+[I 17:57:36.250 NotebookApp] Saving file at /P1.ipynb
+[I 17:59:36.270 NotebookApp] Saving file at /P1.ipynb
+[I 18:01:36.273 NotebookApp] Saving file at /P1.ipynb
+[I 18:03:36.334 NotebookApp] Saving file at /P1.ipynb
+[I 18:05:36.270 NotebookApp] Saving file at /P1.ipynb
+[I 18:07:36.286 NotebookApp] Saving file at /P1.ipynb
+[W 18:10:06.391 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 18:16:02.328 NotebookApp] Saving file at /P1.ipynb
+[I 18:22:02.225 NotebookApp] Saving file at /P1.ipynb
+[I 18:24:02.208 NotebookApp] Saving file at /P1.ipynb
+[I 18:26:02.222 NotebookApp] Saving file at /P1.ipynb
+[I 18:36:33.075 NotebookApp] Saving file at /P1.ipynb
+[I 18:38:33.104 NotebookApp] Saving file at /P1.ipynb
+[I 18:40:33.110 NotebookApp] Saving file at /P1.ipynb
+[I 18:42:33.114 NotebookApp] Saving file at /P1.ipynb
+[I 18:44:33.112 NotebookApp] Saving file at /P1.ipynb
+[I 18:46:33.133 NotebookApp] Saving file at /P1.ipynb
+[I 18:48:33.120 NotebookApp] Saving file at /P1.ipynb
+[I 18:50:33.116 NotebookApp] Saving file at /P1.ipynb
+[I 18:52:33.106 NotebookApp] Saving file at /P1.ipynb
+[I 18:54:33.142 NotebookApp] Saving file at /P1.ipynb
+[I 18:56:33.081 NotebookApp] Saving file at /P1.ipynb
+[I 18:58:33.122 NotebookApp] Saving file at /P1.ipynb
+[I 19:02:33.127 NotebookApp] Saving file at /P1.ipynb
+[I 19:04:33.113 NotebookApp] Saving file at /P1.ipynb
+[I 19:06:33.098 NotebookApp] Saving file at /P1.ipynb
+[I 19:07:00.613 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.68ms
+[I 19:07:21.375 NotebookApp] 302 GET /notebooks/line-segments-example.jpg (192.168.0.106) 1.62ms
+[I 19:07:21.378 NotebookApp] 302 GET /notebooks/laneLines_thirdPass.jpg (192.168.0.106) 1.52ms
+[I 19:07:21.422 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 2.32ms
+[I 19:07:21.425 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.39ms
+[I 19:07:21.427 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 1.48ms
+[I 19:07:32.835 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 0.68ms
+[I 19:08:33.074 NotebookApp] Saving file at /P1.ipynb
+[I 19:09:31.347 NotebookApp] Saving file at /P1.ipynb
+[I 19:11:24.534 NotebookApp] Saving file at /P1.ipynb
+[I 19:15:23.656 NotebookApp] Saving file at /P1.ipynb
+[I 19:16:17.191 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.62ms
+[I 19:17:23.666 NotebookApp] Saving file at /P1.ipynb
+[I 19:17:30.662 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 0.67ms
+[I 19:18:29.253 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 0.89ms
+[I 19:19:23.657 NotebookApp] Saving file at /P1.ipynb
+[I 19:21:23.653 NotebookApp] Saving file at /P1.ipynb
+[I 19:23:23.660 NotebookApp] Saving file at /P1.ipynb
+[I 19:25:23.657 NotebookApp] Saving file at /P1.ipynb
+[I 19:27:23.673 NotebookApp] Saving file at /P1.ipynb
+[I 19:28:36.034 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 0.64ms
+[I 19:29:08.229 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.24ms
+[I 19:29:23.646 NotebookApp] Saving file at /P1.ipynb
+[I 19:29:37.060 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.30ms
+[I 19:30:28.510 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.27ms
+[I 19:30:55.297 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.06ms
+[I 19:31:23.666 NotebookApp] Saving file at /P1.ipynb
+[I 19:31:31.817 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.81ms
+[I 19:31:42.714 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 1.64ms
+[I 19:32:43.674 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.38ms
+[I 19:33:15.355 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.70ms
+[I 19:33:23.656 NotebookApp] Saving file at /P1.ipynb
+[I 19:33:35.755 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 0.63ms
+[I 19:34:14.021 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.62ms
+[I 19:34:43.004 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.22ms
+[I 19:35:05.048 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 1.48ms
+[I 19:35:23.665 NotebookApp] Saving file at /P1.ipynb
+[I 19:36:13.148 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.63ms
+[I 19:36:47.272 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.09ms
+[I 19:36:58.380 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.61ms
+[I 19:37:12.788 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.59ms
+[I 19:37:23.655 NotebookApp] Saving file at /P1.ipynb
+[I 19:37:23.851 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.31ms
+[I 19:37:35.842 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 1.61ms
+[I 19:39:23.648 NotebookApp] Saving file at /P1.ipynb
+[I 20:42:22.186 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.75ms
+[I 20:42:53.193 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.84ms
+[I 20:43:23.565 NotebookApp] Saving file at /P1.ipynb
+[I 20:43:58.991 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.55ms
+[I 20:44:46.376 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.40ms
+[I 20:45:23.519 NotebookApp] Saving file at /P1.ipynb
+[I 20:45:27.201 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.59ms
+[I 20:45:53.585 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.22ms
+[I 20:47:23.535 NotebookApp] Saving file at /P1.ipynb
+[I 20:47:27.909 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 0.69ms
+[I 20:48:16.015 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.49ms
+[I 20:49:15.381 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 2.17ms
+[I 20:49:23.667 NotebookApp] Saving file at /P1.ipynb
+[I 20:49:25.335 NotebookApp] 302 GET /notebooks/extra.mp4 (192.168.0.106) 0.66ms
+[I 20:51:24.592 NotebookApp] Saving file at /P1.ipynb
+[I 20:57:23.754 NotebookApp] Saving file at /P1.ipynb
+[I 20:59:23.535 NotebookApp] Saving file at /P1.ipynb
+[I 21:01:23.471 NotebookApp] Saving file at /P1.ipynb
+[I 21:03:23.493 NotebookApp] Saving file at /P1.ipynb
+[I 21:05:23.482 NotebookApp] Saving file at /P1.ipynb
+[I 21:07:23.464 NotebookApp] Saving file at /P1.ipynb
+[I 21:09:23.517 NotebookApp] Saving file at /P1.ipynb
+[W 21:14:14.957 NotebookApp] 405 HEAD / (23.20.205.190) 0.70ms referer=None
+[I 21:21:23.477 NotebookApp] Saving file at /P1.ipynb
+[I 21:25:23.540 NotebookApp] Saving file at /P1.ipynb
+[I 21:27:23.457 NotebookApp] Saving file at /P1.ipynb
+[I 21:29:23.509 NotebookApp] Saving file at /P1.ipynb
+[I 21:30:22.134 NotebookApp] 302 GET /notebooks/white.mp4 (192.168.0.106) 1.89ms
+[I 21:30:36.815 NotebookApp] 302 GET /notebooks/yellow.mp4 (192.168.0.106) 1.48ms
+[I 21:31:24.498 NotebookApp] Saving file at /P1.ipynb
+[I 21:35:07.157 NotebookApp] 302 GET /CFIDE/administrator/ (193.34.8.10) 0.63ms
+[W 21:35:07.347 NotebookApp] 404 GET /CFIDE/administrator (193.34.8.10) 1.44ms referer=None
